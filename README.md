@@ -4,7 +4,7 @@
 
 I work at a Polish tech company managing infrastructure across multiple environments. My focus is on automation, Infrastructure as Code, and building reliable systems.
 
-**Daily tools:** Linux, AIX, Teradata, Python, Apache NiFi, Ansible, Git
+**Daily tools:** Linux (Arch on my private pc), AIX, Teradata, Python, Apache NiFi, Ansible, Git
 
 ---
 
@@ -60,7 +60,7 @@ Automated infrastructure deployment with Terraform. Includes VPC, EC2, Security 
 
 - 📈 **Stock Market** - I love Mark Minervini's books
 - 🎮 **Competitive Gaming**
-- 🏋️ **Gym** - 
+- 🏋️ **Gym**  
 - 📚 **Reading** - I enjoy almost every kind of literature
 
 ---
