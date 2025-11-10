@@ -4,7 +4,7 @@
 
 I work at a Polish tech company managing infrastructure across multiple environments. My focus is on automation, Infrastructure as Code, and building reliable systems.
 
-**Daily tools:** Linux (Arch on my private pc), AIX, Teradata, Python, Apache NiFi, Ansible, Git
+**Daily tools:** Linux, AIX, Teradata, Python, Apache NiFi, Ansible, Git
 
 ---
 
