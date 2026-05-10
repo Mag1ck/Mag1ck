@@ -1,86 +1,65 @@
-## Hey! I'm Kuba 👋
+## Hey, I'm Kuba
 
-**Junior System Administrator** → **DevOps Engineer** (in progress)
+**System Administrator focused on automation, infrastructure reliability, and DevOps/SRE engineering.**
 
-I work at a Polish tech company managing infrastructure across multiple environments. My focus is on automation, Infrastructure as Code, and building reliable systems.
+I work at a Polish tech company managing infrastructure across multiple environments. My daily work includes Linux/AIX administration, Python automation, Ansible, Teradata/SQL workflows, Apache NiFi, Git/Bitbucket, and monitoring/troubleshooting with Zabbix.
 
-**Daily tools:** Linux, AIX, Teradata, Python, Apache NiFi, Ansible, Git
+Outside work, I build infrastructure and SRE-oriented projects around Docker, Terraform, PostgreSQL, observability, and incident-response simulation.
 
 ---
 
-## 🛠️ Tech Stack
+## Core Stack
 
-### Infrastructure & Automation
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+### Daily / Professional
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Databases & Languages
-![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
+### DevOps / SRE Projects
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 🚀 What I'm Working On
+## Featured Projects
 
-- 🔧 **Infrastructure as Code**: Building Terraform projects for automated deployments
-- 🤖 **Automation**: Writing Ansible playbooks for NiFi and system configuration
-- 📦 **Containerization**: Learning Docker and Kubernetes
-- 🔄 **CI/CD Pipelines**: Exploring Jenkins and GitHub Actions
-- 💻 **Full-Stack Project**: Building a web app with Django (backend) and React (frontend) with friends
+### [Autonomous Incident Response System with LLM Reasoning Traces](https://github.com/Mag1ck/Autonomous-Incident-Response-System-with-LLM-Reasoning-Traces)
 
----
+Local SRE simulation platform for experimenting with incident detection, root-cause analysis, and explainable LLM-assisted remediation.
 
-## 📂 Featured Projects
+Current implementation includes FastAPI microservices, Docker Compose, PostgreSQL, Redis, Alembic migrations, gateway health aggregation, structured downstream-call observations, and Toxiproxy-based fault-injection setup.
 
-### [🏗️ Terraform AWS Infrastructure](https://github.com/Mag1ck/Terraform-AWS-Infrastructure)
-Automated infrastructure deployment with Terraform. Includes VPC, EC2, Security Groups, and automated Apache installation.
+**Tech:** Python, FastAPI, Docker Compose, PostgreSQL, Redis, SQLAlchemy async, Alembic, Toxiproxy
 
-### [🏗️ AWS Data Engineering projectit add .](https://github.com/Mag1ck/AWS_YouTube_Data_Engineering_Analysis_Project)
-Automated infrastructure deployment with Terraform. Includes VPC, EC2, Security Groups, and automated Apache installation.
+### [Terraform AWS Infrastructure](https://github.com/Mag1ck/Terraform-AWS-Infrastructure)
 
-**Tech:** Terraform, AWS, Bash, LocalStack
+Infrastructure as Code project using Terraform and LocalStack to provision an AWS-like web server environment with VPC, subnet, security group, EC2 instance, and automated Apache setup.
 
----
+**Tech:** Terraform, AWS, LocalStack, Bash
 
+### [AWS YouTube Data Engineering Analysis Project](https://github.com/Mag1ck/AWS_YouTube_Data_Engineering_Analysis_Project)
 
-## 📈 GitHub Stats
+Data engineering project using AWS services for YouTube data ingestion, transformation, cataloging, and analytics. Includes Lambda-based JSON normalization and Parquet output to S3 with Glue Catalog integration.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mag1ck&layout=compact&theme=tokyonight&hide_border=true)
+**Tech:** AWS S3, Lambda, Glue, Athena, QuickSight, Python, pandas, awswrangler
 
 ---
 
-## 💡 Beyond Tech
+## Current Focus
 
-- 📈 **Stock Market** - I love Mark Minervini's books
-- 🎮 **Competitive Gaming**
-- 🏋️ **Gym**  
-- 📚 **Reading** - I enjoy almost every kind of literature
+- Building realistic SRE simulation systems with microservices and failure injection
+- Improving Infrastructure as Code skills with Terraform
+- Automating operational work with Python and Ansible
+- Learning production observability patterns: metrics, logs, traces, and incident workflows
 
 ---
 
-## 📫 Let's Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-duba-422b57313/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mag1ck)
-
-<!--
-**Mag1ck/Mag1ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
